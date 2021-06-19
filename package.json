@@ -1,0 +1,21 @@
+{
+  "name": "redis-cache",
+  "version": "1.0.0",
+  "description": "Redis, cache, js, node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Redis",
+    "cache",
+    "node"
+  ],
+  "author": "Raunak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.1.2"
+  }
+}
